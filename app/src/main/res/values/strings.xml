@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Baca</string>
+    <string name="beranda">E-PUSTAKA</string>
+    <string name="cari">Cari</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="terpopuler">Daftar Buku</string>
+    <string name="sort">SORT</string>
+    <string name="detail_title_indo">Bahasa Indonesia</string>
+    <string name="detail_title_indo_kelas">Kelas XII</string>
+    <string name="detail_subtitle_indo_kelas">Buku Pembelajaran SMA/SMK/SMA</string>
+    <string name="rating">Rating</string>
+    <string name="Halaman">Halaman</string>
+    <string name="Bahasa">Bahasa</string>
+    <string name="Genre">Genre</string>
+    <string name="rating_none">-</string>
+    <string name="baca">Baca</string>
+    <string name="unduh">Unduh</string>
+    <string name="tentang_buku">Tentang Buku</string>
+    <string name="tentang_buku_desc">Deskripsi</string>
+    <string name="logout">LOGOUT</string>
+    <string-array name="sort_app">
+
+        <item>Sort</item>
+        <item>Terpopuler</item>
+        <item>Terbaru</item>
+        <item>Terlama</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
